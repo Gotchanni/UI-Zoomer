@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>UI-Zoomer: Uncertainty-Driven Adaptive Zoom-In for GUI Grounding</h1>
+<h1>UI-Zoomer: Uncertainty-Driven Adaptive Zoom-In<br>for GUI Grounding</h1>
 
 <p>
   Fei Tang<sup>1,*</sup>, Bofan Chen<sup>1,*</sup>, Zhengxi Lu<sup>1</sup>, Tongbo Chen<sup>1</sup><br>
